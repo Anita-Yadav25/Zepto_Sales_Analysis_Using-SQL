@@ -2,6 +2,10 @@
 
 This project simulates real-world e-commerce problem-solving using **SQL**, focusing on **revenue optimization, pricing strategy, and inventory efficiency.**
 
+🎯 Business Objective
+
+The objective of this project is to analyze Zepto's product, pricing, discount, and inventory data using SQL to identify pricing opportunities, promotional patterns, inventory risks, and product-value differences that can support better e-commerce decision-making.
+
 ⭐ Project Summary
 
 **Situation**
@@ -106,8 +110,6 @@ Identify:
 
 **📌 Business Recommendations**
 
--Improve demand forecasting
-
 -Prioritize high-demand product restocking
 
 -Optimize discount strategies
@@ -127,7 +129,4 @@ Exploratory Data Analysis
 Business Insight Generation
 
 
-⭐ If you found this project insightful, feel free to star the repository!
 
-**📩 I’m currently transitioning into a Data Analyst role and actively looking for opportunities. 
-I’d love to connect, collaborate, or discuss data-driven problem solving.**
